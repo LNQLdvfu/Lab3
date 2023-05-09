@@ -1,0 +1,3 @@
+/Users/lengocquoclich/Downloads/Lap_1-main/Lab1/cmake-build-debug/CMakeFiles/recall.dir
+/Users/lengocquoclich/Downloads/Lap_1-main/Lab1/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/lengocquoclich/Downloads/Lap_1-main/Lab1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
